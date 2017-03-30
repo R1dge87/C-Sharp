@@ -1,0 +1,6 @@
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\ssno\Documents\Visual Studio 2015\Projects\Grades\Grades\obj\Debug\Grades.pdb
